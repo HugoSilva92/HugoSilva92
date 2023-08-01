@@ -10,7 +10,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSilva92&show_icons=true&locale=en" alt="HugoSilva92" 
-<p>Connect with me: <align="right"> </p>
+<p align="right">Connect with me: </p>
 
 </p>
 
