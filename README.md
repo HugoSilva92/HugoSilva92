@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hugo Silva, my username in 42 is huolivei</h1>
-<h3 align="center">Student at 42 Porto</h3>
+<h1 align="center">Hi 👋, I'm Hugo Silva</h1>
+<h3 align="center">Student at 42 Porto, with the nickname huolivei</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
