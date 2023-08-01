@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/hugo-silva-152172258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-silva-152172258/" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSilva92&show_icons=true&locale=en" alt="HugoSilva92" /> <p align="right">Connect with me:</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HugoSilva92&show_icons=true&locale=en" alt="HugoSilva92" /> <h4 align="right">Connect with me:</h4>
 <p align="right">
 <a href="https://www.linkedin.com/in/hugo-silva-152172258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugo-silva-152172258/" height="30" width="40" /></a>
 </p>
