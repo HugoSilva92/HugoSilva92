@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Silva</h1>
 <h3 align="center">A student of software developer from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugosilva92&label=Profile%20views&color=0e75b6&style=flat" alt="hugosilva92" </p>
+
 
 - 🌱 I’m currently learning **at 42 Porto**
 
